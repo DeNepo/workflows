@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Aspect Ratio 1</title>
+    <meta charset="utf-8" />
+
+    <style>
+      .responsive-thing {
+        height: 100vh;
+        width: 100vw;
+        color: white;
+        font-size: 4em;
+        background-color: blue;
+      }
+
+      @media (aspect-ratio: 1/1) {
+        .responsive-thing {
+          background-color: red;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <section class="responsive-thing"></section>
+  </body>
+</html>

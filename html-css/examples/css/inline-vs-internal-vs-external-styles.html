@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Inline vs. Internal vs. External Styles</title>
+    <meta name="author" content="HackYourFutureBelgium" />
+
+    <style>
+      .fancy-text {
+        font-family: monospace;
+        font-style: italic;
+      }
+    </style>
+
+    <link href="./external.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <!-- they look the same, but are written differently -->
+
+    <!-- [html-validate-disable no-inline-style] -->
+
+    <div id="inline-styles">
+      <p style="font-family: monospace; font-style: italic">
+        To learn <s>everything</s> a lot about trees,
+        <a href="https://en.wikipedia.org/wiki/Tree" target="_blank"
+          >visit this link</a
+        >
+      </p>
+    </div>
+
+    <div id="internal-styles">
+      <p class="fancy-text">
+        To learn <s>everything</s> a lot about trees,
+        <a href="https://en.wikipedia.org/wiki/Tree" target="_blank"
+          >visit this link</a
+        >
+      </p>
+    </div>
+
+    <div id="external-styles">
+      <p class="beautiful">
+        To learn <s>everything</s> a lot about trees,
+        <a href="https://en.wikipedia.org/wiki/Tree" target="_blank"
+          >visit this link</a
+        >
+      </p>
+    </div>
+  </body>
+</html>

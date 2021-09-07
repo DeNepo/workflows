@@ -1,0 +1,21 @@
+CREATE TABLE Person (
+	PersonId INTEGER PRIMARY KEY,
+	FirstName TEXT NOT NULL,
+	LastName TEXT NOT NULL,
+	Nickname TEXT
+);
+
+CREATE TABLE Module (
+	ModuleId INTEGER PRIMARY KEY,
+	Name TEXT,
+	CoachId INTEGER,
+	FOREIGN KEY (CoachId) REFERENCES Person (PersonId)
+);
+
+CREATE TABLE ModuleStudent (
+	ModuleId INTEGER,
+	StudentId INTEGER,
+	FOREIGN KEY (ModuleId) REFERENCES Module (ModuleId),
+	FOREIGN KEY (StudentId) REFERENCES Person (PersonId),
+	UNIQUE (ModuleId, StudentId)
+);

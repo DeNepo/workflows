@@ -1,0 +1,23 @@
+.container {
+  border: solid thin #ccc;
+}
+
+.left-segment {
+  float: left;
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  border: solid thin #ccc;
+}
+
+.right-segment {
+  float: right;
+  background-color: blue;
+  height: 30px;
+  width: 30px;
+  border: solid thin #ccc;
+}
+
+.text-clear {
+  clear: none;
+}

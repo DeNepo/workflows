@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CSS Units: Pixels</title>
+    <meta charset="utf-8" />
+
+    <style>
+      .inner {
+        background-color: blue;
+        height: 20px;
+        width: 20px;
+      }
+
+      .middle {
+        background-color: red;
+        height: 60px;
+        width: 60px;
+      }
+
+      .outer {
+        background-color: yellow;
+        height: 100px;
+        width: 100px;
+      }
+
+      aside {
+        background-color: purple;
+        height: 10px;
+        width: 10px;
+        float: right;
+      }
+    </style>
+  </head>
+
+  <body>
+    <aside>aside</aside>
+    <section class="outer">
+      <div class="middle">
+        <div class="inner">inner</div>
+        middle
+      </div>
+      outer
+    </section>
+  </body>
+</html>

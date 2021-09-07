@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Commas</title>
+    <meta charset="utf-8" />
+
+    <style>
+      .responsive-thing {
+        height: 100vh;
+        width: 100vw;
+        color: white;
+        font-size: 4em;
+        background-color: red;
+      }
+
+      /* commas are like "or" */
+      @media (max-width: 500px), (max-height: 500px) {
+        .responsive-thing {
+          background-color: black;
+        }
+      }
+
+      @media (min-height: 600px), (min-width: 600px) {
+        .responsive-thing {
+          background-color: blue;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <section class="responsive-thing"></section>
+  </body>
+</html>
