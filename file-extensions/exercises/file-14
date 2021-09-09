@@ -1,7 +1,17 @@
-SELECT
-    Name,
-    cast(Bytes AS REAL) / 1000 / 1000 AS Megabytes
-FROM
-    Track
-WHERE
-    Megabytes <= 1;
+name: lint and validate
+
+on:
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  lint-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - run: npm install
+
+      - run: npm run format
+
+      - run: npm run lint:md
+      - run: npm run lint:css
+      - run: npm run validate:html
