@@ -30,8 +30,8 @@ Examples, exercises and guides for the
   extension.
 - 🥚 **[./markdown](./markdown)**: A few example files showing different
   formatting options available in Markdown.
-- 🥚 **[./html-css](./html-css)**: Some examples of how you can use HTML & CSS
-  together to create different effects in your web pages.
+- 🥚 **[./project-starter](./project-starter)**: Starter materials for the
+  HTML+CSS group project - backlog, wireframe, development strategy, code
 
 [TOP](#workflows)
 
