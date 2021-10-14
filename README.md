@@ -31,7 +31,7 @@ Examples, exercises and guides for the
 - 🥚 **[./markdown](./markdown)**: A few example files showing different
   formatting options available in Markdown.
 - 🥚 **[./project-starter](./project-starter)**: Starter materials for the
-  HTML+CSS group project - backlog, wireframe, development strategy, code
+  HTML+CSS group project.
 
 [TOP](#workflows)
 
@@ -87,9 +87,9 @@ VSCode is really good at searching through folders of code.
 You can write hashtags in your comments while you're studying, then search for
 those hashtags later so you don't miss anything. Here's some ideas:
 
-- `// #not-done, still a few blanks left` - search for `#not-done` in VScode to
-  find all the exercises you've started and not finished
-- `// coercion is confusing, #review this again next week` - search for
+- `// #todo, still a few blanks left` - search for `#todo` in Study Lenses or
+  VScode to find all the exercises you still need to study
+- `// #review, coercion is confusing this again next week` - search for
   `#review` to find the files you need to study again
 - ... anything goes! Find the hashtags that work for you
 

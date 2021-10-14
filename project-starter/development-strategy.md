@@ -10,11 +10,11 @@ A simple little website about trees.
 
 ## Site Title
 
-> "as a user can read the title of the page"
+> "as a user I can read the title of the page"
 
 The site needs a clear title that's easy to read at the top of the page.
 
-### Interface: Site Title
+### Site Title: Interface
 
 > all the issues under this header have a `type: interface` label
 
@@ -33,7 +33,7 @@ The site needs a clear title that's easy to read at the top of the page.
 It should be clear what this project is for and what someone can expect from the
 web page.
 
-### Interface: Introduction
+### Introduction: Interface
 
 - A body of text and links
   - [ ] HTML: a section with some general information about the project
@@ -47,7 +47,7 @@ web page.
 
 There is a main text in the page with helpful info and links.
 
-### Interface: Main Info
+### Main Info: Interface
 
 - Header with centered title
   - [ ] HTML: a section with some general information about the project
@@ -62,7 +62,7 @@ There is a main text in the page with helpful info and links.
 
 Some more links for students who want to go beyond the basics.
 
-### Interface: Extra Info
+### Extra Info: Interface
 
 - An aside with links for digging deeper.
   - [ ] HTML: some helpful text and a reference link
