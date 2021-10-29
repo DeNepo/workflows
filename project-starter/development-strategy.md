@@ -21,8 +21,8 @@ The site needs a clear title that's easy to read at the top of the page.
 - Header with centered title
   - (_this list can be copy-pasted as a checklist in the issue_)
   - (_you might add an `html` and `css` label to this issue_)
-  - [ ] HTML: a header element with the title
-  - [ ] CSS: a class to center the title
+  - [ ] HTML: a page header with the title
+  - [ ] CSS: styling to center the title
 
 ---
 
@@ -37,7 +37,7 @@ web page.
 
 - A body of text and links
   - [ ] HTML: a section with some general information about the project
-  - [ ] CSS: a class to make the text look fancy
+  - [ ] CSS: styling to make the text look fancy
 
 ---
 
@@ -52,7 +52,7 @@ There is a main text in the page with helpful info and links.
 - Header with centered title
   - [ ] HTML: a section with some general information about the project
   - [ ] HTML: a pretty list of links
-  - [ ] CSS: a class to format the list
+  - [ ] CSS: styling to format the list
 
 ---
 
@@ -66,5 +66,5 @@ Some more links for students who want to go beyond the basics.
 
 - An aside with links for digging deeper.
   - [ ] HTML: some helpful text and a reference link
-  - [ ] CSS: a class to position the aside
-  - [ ] CSS: a class to style the text
+  - [ ] CSS: styling to position the aside
+  - [ ] CSS: styling to style the text
