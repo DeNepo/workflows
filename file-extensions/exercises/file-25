@@ -1,7 +1,0 @@
-SELECT
-    Name,
-    cast(Bytes AS REAL) / 1000 / 1000 AS Megabytes
-FROM
-    Track
-WHERE
-    Megabytes <= 1;
