@@ -163,7 +163,10 @@ to add more structure to your development process and to share your projects.
   - [ ] explain why it's important to include a license for your code on GitHub
   - [ ] choose a license for your projects that matches how you want others to
         use your code
-- 🥚 **GitHub**: You can ...
+- [ ] 🥚 **GitHub SSH Key**: You can connect your computer to your GitHub
+      account using an SSH key, clone using the SSH link, and push/pull using
+      your SSH connection.
+- 🥚 **GitHub Repositories**: You can ...
   - [ ] create new repository on GitHub
   - [ ] write a description for your repository
   - [ ] turn on GitHub Pages
@@ -223,6 +226,10 @@ group's tasks and to double-check your project's code quality.
   - [ ] link a PR to your claimed issue
   - [ ] assign someone to review your PR
   - [ ] use GitHub code review features to discuss your code with your reviewer
+- [ ] 🐣 **Fixing Merge Conflicts**: You can fix merge conflicts by selecting
+      which change to keep, or deciding how to combine them. If a conflict
+      occurs in a GitHub PR you can pull both branches and fixh the conflict
+      locally.
 
 ### 🐥 [4. Open Source Development](./4-open-source-development)
 
