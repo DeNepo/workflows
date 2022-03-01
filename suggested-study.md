@@ -1,6 +1,8 @@
 # Suggested Study
 
-## Typing Games
+## Local Development Without
+
+### Typing Games
 
 - [shortcutfoo.com](https://www.shortcutfoo.com/)
 - [speedcoder.net](https://www.speedcoder.net/lessons/)
@@ -11,21 +13,7 @@
 - [mltype](https://github.com/jankrepl/mltype)
 - [Typer](https://berkerol.github.io/typer/)
 
-## Command Line Interface (CLI)
-
-- [relative vs. absolute paths](https://www.youtube.com/watch?v=ephId3mYu9o)
-- [The Coding Train](https://www.youtube.com/watch?v=FnkkzgYuXUM&list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X&index=3)
-- [Matt's Lectures and Tutorials](https://www.youtube.com/watch?v=mUXVBMhr7Xg)
-- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
-- [Enough to be Dangerous](https://www.learnenough.com/command-line-tutorial)
-- CLI games:
-  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
-  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) -
-    online
-  - [iTerm](https://sr6033.github.io/lterm/) - online
-- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
-
-## Visual Studio Code (VSCode)
+### Visual Studio Code (VSCode)
 
 VSC is the text editor you will use to write code at HYF. And it's way more than
 just a text editor! Take a look through these links to start learning all you
@@ -44,7 +32,34 @@ be more than enough time to practice:
   - [WSL with VSCode](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
   - [nvm command not found](https://dev.to/duhbhavesh/nvm-command-not-found-1ho)
 
-## NPM
+### READMEs
+
+- Writing Good READMEs
+  - [readme.so](https://readme.so/)
+  - [makeareadme.com](https://www.makeareadme.com/)
+  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+  - [freecodecamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+- [awesome README templates](https://github.com/elangosundar/awesome-README-templates)
+- README Driven Development
+  - [deterministic.space](https://deterministic.space/readme-driven-development.html)
+  - [tom preston werner](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+
+### Command Line Interface (CLI)
+
+- [relative vs. absolute paths](https://www.youtube.com/watch?v=ephId3mYu9o)
+- [The Coding Train](https://www.youtube.com/watch?v=FnkkzgYuXUM&list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X&index=3)
+- [Matt's Lectures and Tutorials](https://www.youtube.com/watch?v=mUXVBMhr7Xg)
+- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+- [Enough to be Dangerous](https://www.learnenough.com/command-line-tutorial)
+- CLI games:
+  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
+  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) -
+    online
+  - [iTerm](https://sr6033.github.io/lterm/) - online
+- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+
+### NPM
 
 - [Installing NPM and Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - What is a `package.json` file?
@@ -58,32 +73,31 @@ be more than enough time to practice:
   - [docs.npmjs.com](https://docs.npmjs.com/cli/v7/commands/npm-run-script)
   - [Microsoft Developer](https://www.youtube.com/watch?v=amSVXzDiVuk)
 
-## READMEs
+---
 
-- Writing Good READMEs
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-  - [freecodecamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-- [awesome README templates](https://github.com/elangosundar/awesome-README-templates)
-- README Driven Development
-  - [deterministic.space](https://deterministic.space/readme-driven-development.html)
-  - [tom preston werner](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+## Local Development With Git
 
-## Git and GitHub
+### Git
 
-Git and GitHub are how you will do _everything_ while at HackYourFuture.
-Homework submission, Sunday classes, projects, collaboration, coach feedback,
-_everything_! The more time you spend studying Git and GitHub before the classes
-starts, the easier it will be to focus on the fun stuff.
-
-- [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - Learn to visualize what happens inside of Git with:
   - [learngitbranching](https://learngitbranching.js.org/) +
     [a Video Guide](https://www.youtube.com/watch?v=dG0ke9vILQM)
   - [git-school](https://git-school.github.io/visualizing-git/)
   - [ohmygit](https://ohmygit.org/) - a git game
+- [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+  (also talks about GitHub)
+- [merge-a-matic](https://github.com/lpmi-13/merge-a-matic)
 - [Git Katas](https://github.com/eficode-academy/git-katas)
+- [git-it](https://github.com/jlord/git-it-electron/)
+- [Understand how to use Atomic Commits](https://curiousprogrammer.io/blog/how-to-craft-your-changes-into-small-atomic-commits-using-git)
+- [rebasic](https://github.com/lpmi-13/rebasic)
+
+---
+
+## Local/Remote Development
+
+### GitHub
+
 - [lab.github.com/githubtraining](https://lab.github.com/githubtraining/paths/)
   - [first day on github](https://lab.github.com/githubtraining/first-day-on-github)
   - [first week on github](https://lab.github.com/githubtraining/first-week-on-github)
@@ -98,16 +112,16 @@ starts, the easier it will be to focus on the fun stuff.
   - [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
   - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
 - [The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)
-- [git-it](https://github.com/jlord/git-it-electron/)
-- [Understand how to use Atomic Commits](https://curiousprogrammer.io/blog/how-to-craft-your-changes-into-small-atomic-commits-using-git)
 
-## Collaborative Development
+---
+
+## Remote Collaboration
 
 - [Building Software Together](https://buildtogether.tech/) _a student's guide
   to being a compassionate programmer_ - The technical parts are more advanced
   than what you're learning now, but all the rest is gold.
 
-## Collaborating on GitHub
+### Collaborating on GitHub
 
 - [Adding collaborators to a repository](https://www.youtube.com/watch?v=p49LRx3hYI8)
 - [about code reviews](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
@@ -123,7 +137,7 @@ starts, the easier it will be to focus on the fun stuff.
   [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
 - [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
-## GitHub Actions
+### GitHub Actions
 
 For now you can think of _Continuous Integration_ is a fancy way to say
 "automatically check your code before you merge". Your project repositories will
@@ -133,13 +147,15 @@ _hint: remember to_
 [_enable GitHub Actions_](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/disabling-or-limiting-github-actions-for-a-repository)
 _in your repository!_
 
+---
+
 ## Open Source Development
 
 ### What is Open Source Software?
 
 - [Mozilla](https://www.youtube.com/watch?v=7c0IrsDsNaw)
 - [Brian Daigle](https://www.youtube.com/watch?v=1ehpgbb3XD0) codes of conduct
-  and github walk-through: https://www.youtube.com/watch?v=c6b6B9oN4Vg
+  and github walk-through: <https://www.youtube.com/watch?v=c6b6B9oN4Vg>
 - [Explained with Legos](https://www.youtube.com/watch?v=a8fHgx9mE5U)
 - [And with recipes](https://www.youtube.com/watch?v=9ShgYrBkTRs)
 - [Open Source vs. Closed Source](https://www.youtube.com/watch?v=2q91vTvc7YE)

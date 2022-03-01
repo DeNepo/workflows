@@ -1,3 +1,1 @@
-# Local Development
-
-The first level of workflows to learn
+# Local Development with Git

@@ -1,7 +1,7 @@
 # Workflows
 
 [<< Precourse](https://gitub.com/hackyourfuturebelgium/precourse) | Workflows |
-[Agile Development >>](../agile-development/README.md)
+[Agile Development >>](https://github.com/HackYourFutureBelgium/agile-development)
 
 > “I'm not a great programmer; I'm just a good programmer with great habits.”
 >
@@ -11,16 +11,16 @@ Learn the skills required to work a collaborative software project using only
 Markdown. Limiting your projects to Markdown lets you focus on the big picture
 without getting distracted by more challenging code.
 
-- [Learning Objectives](#learning-objectives): what you can expect to learn from
-  studying this material
+- [Learning Objectives](#learning-objectives): what you will learn from this
+  module
 - [Suggested Study](./suggested-study.md): Helpful links for this module, useful
   but not required.
 - [Deliverables](./deliverables): Projects to practice applying the learning
   objectives in context
 - [Lesson Plans](./lesson-plans): A few ideas for running lessons around this
   material.
-- [Setting Up](#setting-up)
 - [Study Tips](#study-tips)
+- [Setting Up](#setting-up)
 - [Code Quality Scripts](#code-quality-scripts)
 
 ## Learning Objectives
@@ -51,7 +51,7 @@ your study time and to measure your progress:
 
 </details>
 
-### [0. Local Development Without Git](./0-local-development-without-git)
+### 🥚 [0. Local Development Without Git](./0-local-development-without-git)
 
 Practice the foundational workflows of software development by learning to write
 Markdown locally on your own computer using Visual Studio Code (VSCode), the
@@ -121,7 +121,7 @@ Command Line Interface (CLI), and NPM scripts to automate your code's quality
       keyboard to find any letters, numbers or special characters. (slowly is
       ok!)
 
-### [1. Local Development With Git](./1-local-development-with-git)
+### 🥚 [1. Local Development With Git](./1-local-development-with-git)
 
 Practice using Git to save and organize your development process. You will learn
 how you can use Git to go back to previous versions of your project, and to work
@@ -154,7 +154,7 @@ on different changes in parallel.
       branches. You can create a new branch for each part of your project and
       merge those changes to `main` when they are finished.
 
-### [1. Local/Remote Development](./2-local-remote-development)
+### 🥚 [1. Local/Remote Development](./2-local-remote-development)
 
 Learn how you can connect your local Git repositories with a GitHub repository
 to add more structure to your development process and to share your projects.
@@ -197,7 +197,7 @@ to add more structure to your development process and to share your projects.
   8. Merge your new remote branch to `main`
      - You can delete the branch after it's merged if you want to
 
-### [3. Remote Collaboration](./3-remote-collaboration)
+### 🐣 [3. Remote Collaboration](./3-remote-collaboration)
 
 Learn how to collaborate with a group on a single project hosted in a GitHub
 repository. Practice using GitHub's project management features to organize your
@@ -224,39 +224,20 @@ group's tasks and to double-check your project's code quality.
   - [ ] assign someone to review your PR
   - [ ] use GitHub code review features to discuss your code with your reviewer
 
-### [4. Open Source Development](./4-open-source-development)
+### 🐥 [4. Open Source Development](./4-open-source-development)
 
-Explore the wider world of Open Source software by learning how a community of
+Explore the wider world of Open Source software by learning how communities of
 independent developers write and maintain the code we all rely on.
 
 - [ ] 🥚 **Finding Issues**: You can read through an open source project's
       issues and determine if there is one you can help with.
-- [ ] 🥚 **Opening Issues**: You can open a helpful issue in an open source
+- [ ] 🐣 **Commenting in Issues**: You can productively join the conversation in
+      an open source projects' issues.
+- [ ] 🐥 **Opening Issues**: You can open a helpful issue in an open source
       repository, following their contributor guidelines and code of conduct.
-- [ ] 🥚 **Forking & PRS**: You can create a fork of an open source project and
-      send a PR to the primary repository.
-
-[TOP](#workflows)
-
----
-
-## Setting Up
-
-> You will need
-> [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-> installed on your computer to study this material
-
-1. Clone this repository:
-   - using SSH:
-     `git clone --depth 1 git@github.com:HackYourFutureBelgium/workflows.git`
-2. navigate to the cloned repository
-   - `cd workflows`
-3. Install dependencies:
-   - `npm install`
-
-> It's highly recommended that you use either Linux or Mac. If you have a
-> Windows computer you can either dual-boot your computer or install a virtual
-> machine.
+- [ ] 🐔 **Contributing**: You can create a fork of an open source project and
+      open a PR that contributes something helpful and follows the Contributor
+      Guidelines and Code of Conduct.
 
 [TOP](#workflows)
 
@@ -298,6 +279,28 @@ These 4 columns may be helpful:
   learn it
 
 </details>
+
+[TOP](#workflows)
+
+---
+
+## Setting Up
+
+> You will need
+> [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+> installed on your computer to study this material
+
+1. Clone this repository:
+   - using SSH:
+     `git clone --depth 1 git@github.com:HackYourFutureBelgium/workflows.git`
+2. navigate to the cloned repository
+   - `cd workflows`
+3. Install dependencies:
+   - `npm install`
+
+> It's highly recommended that you use either Linux or Mac. If you have a
+> Windows computer you can either dual-boot your computer or install a virtual
+> machine.
 
 [TOP](#workflows)
 
