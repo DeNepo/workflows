@@ -104,6 +104,7 @@ be more than enough time to practice:
   - [prepare to use github](https://lab.github.com/githubtraining/prepare-to-use-github)
 - [Getting Started with GitHub](https://help.github.com/en/github/getting-started-with-github)
 - [Creating a GitHub Repository](https://www.youtube.com/watch?v=WfhRyz3Wf4o)
+- [Connecting to GitHub with SSH](https://www.youtube.com/watch?v=p4Jhf729jgg)
 - [Creating a local repo and push](https://www.youtube.com/watch?v=vbQ2bYHxxEA)
 - [GitHub & VSCode](https://www.youtube.com/watch?v=ZDo0Qht5D6w)
 - and much more at
