@@ -8,6 +8,8 @@ can get to know you.
 
 ```markdown
 - [ ] I wrote my markdown locally on a new branch
+- [ ] My bio file is named _exactly_ the same as my GitHub username
+- [ ] My `bio` link in the class README opens to my student bio file
 - [ ] I pulled and merged `main` into my branch before pushing
 - [ ] I pushed my branch to the class repository and opened a PR
 - [ ] I went through the PR checklist
