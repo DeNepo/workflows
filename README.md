@@ -1,8 +1,5 @@
 # Workflows
 
-[<< Precourse](https://gitub.com/hackyourfuturebelgium/precourse) | Workflows |
-[Agile Development >>](https://github.com/HackYourFutureBelgium/agile-development)
-
 > “I'm not a great programmer; I'm just a good programmer with great habits.”
 >
 > - [Kent Beck](https://en.wikiquote.org/wiki/Kent_Beck)
