@@ -96,6 +96,9 @@ Command Line Interface (CLI), and NPM scripts to automate your code's quality
         project
   - [ ] You can use `npm run format:check` to make sure all files are
         well-formatted
+- 🥚 **Linting Folder and File Names**: You can ...
+  - [ ] use `npm run lint:ls` to check all folder and file names in your project
+  - [ ] you can fix all linting mistakes reported by `npm run lint:ls`
 - 🥚 **Linting Code**: You can ...
   - [ ] use `npm run lint:md` to check all Markdown files in your folder for
         linting mistakes
@@ -130,6 +133,7 @@ on different changes in parallel.
 - 🥚 **Git**: Using the CLI you can ...
   - [ ] Initialize a new git repository with `git init`
   - [ ] stage changes using `git add <path>`
+  - [ ] check what is staged with `git status`
   - [ ] commit changes using `git commit -m <message>`
   - [ ] display your repository's git history using `git log`
   - [ ] create a new branch using `git branch <branch-name>`
