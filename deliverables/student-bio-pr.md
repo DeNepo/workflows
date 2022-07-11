@@ -6,6 +6,11 @@ can get to know you.
 
 ## Checklist
 
+Copy-paste this checklist into a new deliverables issue and move your issue to the project board, your issue should have:
+
+- labels:`individual`, `deliverable`
+- milestone: Workflows
+
 ```markdown
 - [ ] I wrote my markdown locally on a new branch
 - [ ] My bio file is named _exactly_ the same as my GitHub username
