@@ -155,7 +155,7 @@ on different changes in parallel.
       branches. You can create a new branch for each part of your project and
       merge those changes to `main` when they are finished.
 
-### 🥚 [1. Local/Remote Development](./2-local-remote-development)
+### 🥚 [2. Local/Remote Development](./2-local-remote-development)
 
 Learn how you can connect your local Git repositories with a GitHub repository
 to add more structure to your development process and to share your projects.
