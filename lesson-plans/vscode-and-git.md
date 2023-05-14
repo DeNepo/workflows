@@ -18,7 +18,8 @@ repository.
   [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
 - Begin watching
   [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- Setting up git & GitHub [Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)
+- Setting up git & GitHub
+  [Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)
 - Practice using VSCode to:
   - open a project
   - open, edit and save files
