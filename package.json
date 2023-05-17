@@ -12,9 +12,9 @@
   "author": "HackYourFuture Belgium",
   "license": "MIT",
   "devDependencies": {
-    "@ls-lint/ls-lint": "^1.11.0",
-    "cspell": "^5.9.0",
+    "@ls-lint/ls-lint": "^1.11.2",
+    "cspell": "^5.21.2",
     "markdownlint-cli": "^0.28.1",
-    "prettier": "^2.3.2"
+    "prettier": "^2.8.8"
   }
 }
