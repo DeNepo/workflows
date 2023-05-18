@@ -9,7 +9,6 @@
 
 <!-- describe your PR -->
 <!-- markdownlint-disable-next-line first-line-heading first-heading-h1 -->
-
 ## Description
 
 <!-- A clear and concise description of what the Pull Request is about. -->
