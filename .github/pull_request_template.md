@@ -6,9 +6,10 @@
   - connect it to a milestone (if necessary)
   - link it with an issue (if necessary)
 -->
+<!-- markdownlint-disable-file -->
 
 <!-- describe your PR -->
-<!-- markdownlint-disable-next-line first-line-heading first-heading-h1 -->
+
 ## Description
 
 <!-- A clear and concise description of what the Pull Request is about. -->
