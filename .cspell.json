@@ -21,7 +21,6 @@
     "owanateamachree",
     "learngitbranching",
     "Nepo",
-    "brnach",
     "exsit",
     "shortcutfoo",
     "speedcoder",
@@ -58,7 +57,8 @@
     "gitbook",
     "Unmesh",
     "Samir",
-    "Bermarte"
+    "Bermarte",
+    "DeNepo"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }

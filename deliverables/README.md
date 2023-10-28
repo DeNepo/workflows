@@ -1,5 +1,8 @@
 # Deliverables
 
+- [Student Bio](./student-bio-pr.md)
+- [Group Introduction Repo](./group-introduction-repo.md)
+
 This module has 3 deliverables. One is a contribution to the class repository,
 one is a group project to practice collaboration and the other is a group
 project to practice following a development strategy.

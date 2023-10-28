@@ -2,7 +2,7 @@
 
 ## Command Line Interface(CLI)
 
-- [CLICK HERE](./cli/cli.md)
+- [CLICK HERE](./cli/README.md)
 
 ## Markdown
 
@@ -10,8 +10,8 @@
 
 ## VS Code
 
-- [CLICK HERE](./vscode/vscode.md)
+- [CLICK HERE](./vscode/README.md)
 
 ## NPM
 
-- [CLICK HERE](./npm/npm.md)
+- [CLICK HERE](./npm/README.md)

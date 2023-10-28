@@ -168,7 +168,7 @@ on different changes in parallel.
   - [ ] Create a new branch and check it out using
         `git checkout -b <branch-name>`
   - [ ] Merge changes from one branch to another using `git merge <branch-name>`
-  - [ ] Update current branch (your branch) from _main_ brnach:
+  - [ ] Update current branch (your branch) from _main_ branch:
     - [ ] Check out to _main_ branch using `git checkout main`
     - [ ] Pull changes from remote repository using `git pull`
     - [ ] Check out to your branch using `git checkout <branch-name>`

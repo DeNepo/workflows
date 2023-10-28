@@ -1,7 +1,7 @@
 {
   "name": "workflows",
   "version": "2.0.0",
-  "description": "Materials for the Workflows module at HackYourFuture Belgium",
+  "description": "Materials for the Workflows module at DeNepo",
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
@@ -9,7 +9,7 @@
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
   },
-  "author": "HackYourFuture Belgium",
+  "author": "DeNepo",
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^2.0.0",

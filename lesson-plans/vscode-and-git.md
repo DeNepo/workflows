@@ -5,8 +5,7 @@ developer working alone. This includes using VSCode, the command line,
 formatting & linting code, and using Git.
 
 You will practice these skills using the
-[`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
-repository.
+[`template-markdown`](https://github.com/DeNepo/template-markdown) repository.
 
 ## Before
 
@@ -36,8 +35,7 @@ repository.
   developers
 - _30 min_: Q/A and review of previous materials
 - _75 minutes_: A coach shares their screen and does a guided walk through the
-  [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
-  repository:
+  [`template-markdown`](https://github.com/DeNepo/template-markdown) repository:
   - what is git? and github?
   - how to clone a repository from github?
   - what is NPM?
@@ -49,8 +47,7 @@ repository.
 
 - _60 min_: in small groups, practice writing great Markdown using code quality
   checks, each person should try on their own computer:
-  - Clone the
-    [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
+  - Clone the [`template-markdown`](https://github.com/DeNepo/template-markdown)
     repository
   - Open it in VSCode
   - Install dependencies
