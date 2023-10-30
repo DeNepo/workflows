@@ -1,7 +1,7 @@
 # Group Introduction
 
 > use this starter repository:
-> [Markdown template repository](https://github.com/HackYourFutureBelgium/template-markdown)
+> [Markdown template repository](https://github.com/DeNepo/template-markdown)
 
 Find a time to meet with your study group and build a get-to-know-you repository
 with one markdown file per person in your group. This doesn't need to be

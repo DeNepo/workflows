@@ -22,7 +22,7 @@ You will work in small groups to get set the Group Introduction deliverable.
   - Read through the Group Introduction deliverable and make sure everyone
     understand the project
   - Generate a repository for each group in the class organization using the
-    [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
+    [`template-markdown`](https://github.com/DeNepo/template-markdown)
     repository
 - _20 min_: Q/A about the week's deliverable
 
