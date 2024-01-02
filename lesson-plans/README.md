@@ -1,4 +1,4 @@
 # Lesson Plans
 
-- [VSCode and GIT](./vscode-and-git.md)
-- [Github Project Management](./github-project-management.md)
+- [Part 1](./vscode-and-git.md)
+- [Part 2](./github-project-management.md)

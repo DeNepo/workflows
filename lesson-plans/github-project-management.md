@@ -3,20 +3,10 @@
 Learn how to use Project Boards, Issues, Labels, Milestones and Pull Request to
 organize group development in a single repository.
 
-## Before
-
-- Practice creating branches, pushing, pulling and opening Pull Requests
-- Read about GitHub project management features
-
-## During
-
-You will work in small groups to get set the Group Introduction deliverable.
-
-### Before Break
+## After Break
 
 > all together
 
-- _20 min_: Q/A Review
 - _20 min_: Introduction to collaborative development
 - _40 min_: Form small random groups and split up:
   - Read through the Group Introduction deliverable and make sure everyone
@@ -24,11 +14,8 @@ You will work in small groups to get set the Group Introduction deliverable.
   - Generate a repository for each group in the class organization using the
     [`template-markdown`](https://github.com/DeNepo/template-markdown)
     repository
-- _20 min_: Q/A about the week's deliverable
 
-### After Break
-
-- _75 min_: In small groups, prepare for the week's deliverable:
+- _45 min_: In small groups, prepare for the week's deliverable:
   - Set up your group's repository:
     - The Basics
       - Use the name your team decided on
@@ -54,6 +41,11 @@ You will work in small groups to get set the Group Introduction deliverable.
 
 ## After
 
+- Read over the learning objectives for chapters 0, 1 & 2
+- Work your way through the exercises for these chapters (if there are any in
+  the folders)
+- Study the [Suggested Study](../suggested-study.md) for these chapters
+- Complete the [Student Bio PR](../deliverables/student-bio-pr.md) deliverable
 - Read over the learning objectives for chapter 3
 - Work your way through the exercises for chapter 3 (if there are any in the
   folder)
