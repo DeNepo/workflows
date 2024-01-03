@@ -8,14 +8,14 @@ organize group development in a single repository.
 > all together
 
 - _20 min_: Introduction to collaborative development
-- _40 min_: Form small random groups and split up:
+- _20 min_: Form small random groups and split up:
   - Read through the Group Introduction deliverable and make sure everyone
     understand the project
   - Generate a repository for each group in the class organization using the
     [`template-markdown`](https://github.com/DeNepo/template-markdown)
     repository
 
-- _45 min_: In small groups, prepare for the week's deliverable:
+- _40 min_: In small groups, prepare for the week's deliverable:
   - Set up your group's repository:
     - The Basics
       - Use the name your team decided on
@@ -36,7 +36,7 @@ organize group development in a single repository.
     board
   - Set up your group repo's project board
   - Make sure everyone is ready for the week
-- _15 min_: Come back together for a short check-in from each group and Q/A with
+- _10 min_: Come back together for a short check-in from each group and Q/A with
   the coaches
 
 ## After
