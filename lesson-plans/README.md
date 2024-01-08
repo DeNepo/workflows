@@ -60,7 +60,7 @@ You will practice these skills using the
 
 - __20 min__: Introduction to collaborative development
 - __20 min__: Form small random groups and split up:
-  - Read through the Group Introduction deliverable and make sure everyone
+  - Read through the [Group Introduction deliverable](../deliverables/group-introduction-repo.md) and make sure everyone
     understand the project
   - Generate a repository for each group in the class organization using the
     [`template-markdown`](https://github.com/DeNepo/template-markdown)
