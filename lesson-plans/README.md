@@ -5,7 +5,7 @@ developer working alone and in a group. This includes using VSCode, the command 
 formatting & linting code, using Git and GitHub.
 
 You will practice these skills using the
-[`template-markdown`](https://github.com/DeNepo/template-markdown) repository.
+[`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown) repository.
 
 ## Before the class
 
@@ -33,7 +33,7 @@ You will practice these skills using the
 
 - __10 min__: Q/A and review of previous materials
 - __40 minutes__: A coach shares their screen and does a guided walk through the
-  [`template-markdown`](https://github.com/DeNepo/template-markdown) repository:
+  [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown) repository:
   - what is git? and github?
   - how to clone a repository from github?
   - what is NPM?
@@ -42,7 +42,7 @@ You will practice these skills using the
   - what is linting? and formatting?
 - __60 min__: in small groups, practice writing great Markdown using code quality
   checks, each person should try on their own computer:
-  - Clone the [`template-markdown`](https://github.com/DeNepo/template-markdown)
+  - Clone the [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
     repository
   - Open it in VSCode
   - Install dependencies
@@ -63,7 +63,7 @@ You will practice these skills using the
   - Read through the [Group Introduction deliverable](../deliverables/group-introduction-repo.md) and make sure everyone
     understand the project
   - Generate a repository for each group in the class organization using the
-    [`template-markdown`](https://github.com/DeNepo/template-markdown)
+    [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
     repository
 
 - __40 min__: In small groups, prepare for the week's deliverable:
