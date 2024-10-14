@@ -2,14 +2,15 @@
 
 ## Introduction
 
-This guide is designed to help you practice and understand the various commands and practices involved in
- version control using Git.
+This guide is designed to help you practice and understand the various commands
+and practices involved in version control using Git.
 
 ## Git Basics
 
 ### Initializing a New Repository
 
-To start using Git in your project, initialize a new Git repository with the following command:
+To start using Git in your project, initialize a new Git repository with the
+following command:
 
 ```bash
 git init
@@ -128,23 +129,28 @@ git remote rm <existing-shortname>
 
 ## .gitignore
 
-Use a `.gitignore` file to specify files you don't want included in your Git history.
+Use a `.gitignore` file to specify files you don't want included in your Git
+history.
 
 ## Visual Studio Code Integration
 
 Enhance your Git experience in VSCode:
 
 - Utilize the Git Graph extension to visualize your repo's commit history.
-- Leverage the Git Lens extension to investigate your repository's commit history.
-- Understand how the file tree in VSCode highlights files with uncommitted changes.
+- Leverage the Git Lens extension to investigate your repository's commit
+  history.
+- Understand how the file tree in VSCode highlights files with uncommitted
+  changes.
 
 ## Best Practices
 
 ### Atomic Commits
 
-Save your development progress using small commits with clear and helpful messages.
+Save your development progress using small commits with clear and helpful
+messages.
 
 ### Feature Branches
 
-Organize your development process by creating feature branches. Each branch can correspond to a specific part
- of your project, and changes can be merged into the main branch when completed.
+Organize your development process by creating feature branches. Each branch can
+correspond to a specific part of your project, and changes can be merged into
+the main branch when completed.
